@@ -108,3 +108,14 @@ body {
     box-sizing: border-box;
 }
 
+footer {
+    text-align: center;
+}
+.moviedb {
+    height: 10%;
+    width: 10%;
+}
+
+.moviedb-attribution {
+    color: #01b4e4;
+}
